@@ -11,8 +11,7 @@ Menuisier BM en parallèle, pour comprendre les métiers que je veux outiller.
 
 - **[char](https://github.com/gricatan/char)** — serveur de jeu multijoueur FastAPI, utilisé en prod pour les Battle Arena DevHub
 - **[bot_discord_devhub](https://github.com/gricatan/bot_discord_devhub)** — bot Discord en prod sur 210 membres
-- **[entretient](https://github.com/gricatan/entretient)** — interface conversationnelle via l'API Mistral
-
+- **[entretient](https://github.com/gricatan/entretient)** — transcription audio temps réel + conseils IA pendant une visio
 ## Stack
 
 `Python` `FastAPI` `discord.py` `Mistral API` `Nginx` `Git`
