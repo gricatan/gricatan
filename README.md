@@ -23,7 +23,7 @@ Fondateur d'un serveur Discord fr de ~210 développeurs — Battle Arena, DevJam
 
 ---
 
-📍 Gleizé · ✉ griffonluc7@gmail.com · [Portfolio](https://gricatan.github.io/cvlucgriffon)
+📍 Gleizé · ✉ lucgriffon@duck.com · [Portfolio](https://gricatan.github.io/cvlucgriffon)
 
 <!--
 **gricatan/gricatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
